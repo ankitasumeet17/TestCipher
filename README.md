@@ -12,9 +12,10 @@ Plain Text: h e l l o w o r l d
 Key: 3
 To encrypt this message we first write over three lines as follows:
 
-h	-	-	-	o	-	-	-	l	-
--	e	-	l	-	w	-	r	-	d
--	-	l	-	-	-	o	-	-	-
+[h	-	-	-	o	-	-	-	l	-]
+[-	e	-	l	-	w	-	r	-	d]
+[-	-	l	-	-	-	o	-	-	-]
+
 The cipher text in this case is written by reading off the top row, then the second row, then the last row from left to right.
 
 Cipher Text: h o l e l w r d l o
